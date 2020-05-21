@@ -16,4 +16,8 @@ public interface PersonInfoService {
 
     public boolean savePersonInfo(List<Person> list);
 
+    public void delPersonById(Integer id);
+
+    public boolean updatePersonInfo(Integer id,String name);
+
 }

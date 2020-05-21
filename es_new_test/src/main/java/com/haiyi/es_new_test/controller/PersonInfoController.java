@@ -41,4 +41,15 @@ public class PersonInfoController {
         boolean result = personInfoService.savePersonInfo(list);
         return result;
     }
+
+    @GetMapping("/delPersonById")
+    public void delPersonById(Integer id){
+        personInfoService.delPersonById(id);
+    }
+
+    @GetMapping("/updatePersonInfo")
+    public void delPersonById(Integer id,String name){
+        boolean result = personInfoService.updatePersonInfo(id, name);
+        System.out.println(result);
+    }
 }

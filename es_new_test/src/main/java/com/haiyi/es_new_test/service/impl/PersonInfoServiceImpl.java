@@ -55,4 +55,20 @@ public class PersonInfoServiceImpl implements PersonInfoService {
             return false;
         }
     }
+
+    @Override
+    public void delPersonById(Integer id) {
+        personESRepository.deleteById(id);
+        System.out.println("删除");
+    }
+
+    @Override
+    public boolean updatePersonInfo(Integer id, String name) {
+        Person person = new Person(id, name, 18);
+        Person savePerson = personESRepository.save(person);
+        if(savePerson != null){
+            return true;
+        }
+        return false;
+    }
 }

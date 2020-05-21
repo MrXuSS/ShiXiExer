@@ -1,5 +1,6 @@
 package com.haiyi.es_new_test.bean;
 
+import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
 
 /**
@@ -10,6 +11,7 @@ import org.springframework.data.elasticsearch.annotations.Document;
 
 @Document(indexName = "test01",type = "person")
 public class Person {
+    @Id
     private Integer id;
     private String name;
     private Integer age;
