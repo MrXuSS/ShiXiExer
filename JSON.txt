@@ -1,0 +1,11 @@
+{"name": "lisi", "age" : 20, "friends": ["lisi", "zs"]}
+{"name": "zs", "age" : 30, "friends": ["lisi", "zs"]}
+{"name": "wangwu", "age" : 15, "friends": ["lisi", "zs"]}
+
+{"name": "lisi", "age" : 20, "friends": ["lisi", "zs"]}
+{"name": "zs", "age" : 30, "friends": ["lisi", "zs"]}
+{"name": "wangwu", "age" : 15, "friends": ["lisi", "zs"]}
+
+{"name": "lisi", "age" : 20, "friends": ["lisi", "zs"]}
+{"name": "zs", "age" : 30, "friends": ["lisi", "zs"]}
+{"name": "wangwu", "age" : 15, "friends": ["lisi", "zs"]}
