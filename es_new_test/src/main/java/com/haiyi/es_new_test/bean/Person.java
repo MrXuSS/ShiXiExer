@@ -2,6 +2,7 @@ package com.haiyi.es_new_test.bean;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
+import org.springframework.data.elasticsearch.annotations.Field;
 
 /**
  * @author Mr.Xu
@@ -13,7 +14,9 @@ import org.springframework.data.elasticsearch.annotations.Document;
 public class Person {
     @Id
     private Integer id;
+    @Field
     private String name;
+    @Field
     private Integer age;
 
     public Person() {

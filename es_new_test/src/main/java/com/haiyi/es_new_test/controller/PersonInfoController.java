@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSON;
 import com.haiyi.es_new_test.bean.Person;
 import com.haiyi.es_new_test.service.PersonInfoService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -52,4 +53,32 @@ public class PersonInfoController {
         boolean result = personInfoService.updatePersonInfo(id, name);
         System.out.println(result);
     }
+
+    @GetMapping("/getPersonByNameAndId")
+    public Person getPersonByNameAndId(String name,Integer id){
+        Person person = personInfoService.getPersonByNameAndId(name, id);
+        return person;
+    }
+    @GetMapping("/getPersonByName")
+    public Person getPersonByName(String name){
+        Person person = personInfoService.getPersonByName(name);
+        return person;
+    }
+    @GetMapping("/getPersonByNameLike")
+    public Person getPersonByNameLike(String name){
+        Person person = personInfoService.getPersonByNameLike("%"+name+"%");
+        return person;
+    }
+    @GetMapping("/hightLight")
+    public Page<Person> hightLight(String keyword, Integer pageNum, Integer pageSize){
+        Page<Person> people = personInfoService.hightLightPersonName(keyword, pageNum, pageSize);
+        return people;
+    }
+
+    @GetMapping("/getPersonByPage")
+    public Page<Person> pageInfo(Integer currentPage,Integer size){
+        Page<Person> personByPage = personInfoService.getPersonByPage(currentPage,size);
+        return personByPage;
+    }
+
 }
