@@ -1,118 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae2ffa55-f05d-49df-beed-771a63bdedb8" name="Default Changelist" comment="" />
+    <list default="true" id="7b6c09dd-149c-4eae-bb1a-89250a376a13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/baidu/study/day01/DeviceData.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/baidu/study/day01/ErrorActionApp.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/baidu/study/day01/MyApp01.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/baidu/study/day01/User.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/baidu/study/day02/TopThreeCityForProduct.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/baidu/study/day03/Test01.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start2test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/start2test.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Scala Class" />
-        <option value="Scala Object" />
-        <option value="Yml File" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/es_new_test" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program\Repository" />
         <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.2.2-bin/apache-maven-3.2.2" />
         <option name="userSettingsFile" value="D:\Program\Maven\apache-maven-3.2.2-bin\apache-maven-3.2.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1bZJhDOuG0RWyFs3JkPBm0m5p10" />
+  <component name="ProjectId" id="1cWzIg8oFoPpm4zYiOHZPzvO9Eq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/es_new_test/src/main/java/com/haiyi/es_new_test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/esTest" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.haiyi.es_new_test" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Program\WorkSpaces\Idea_WorkSpace\start2test\es_new_test\src\main\java\com\haiyi\es_new_test" />
-      <recent name="D:\Program\WorkSpaces\Idea_WorkSpace\start2test" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Program\WorkSpaces\Idea_WorkSpace\start2test\src\main\resources" />
-      <recent name="D:\Program\WorkSpaces\Idea_WorkSpace\start2test" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Spring Boot.EsNewTestApplication">
-    <configuration name="ErrorActionApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.baidu.study.day01.ErrorActionApp" />
-      <module name="start2test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.baidu.study.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyApp01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.baidu.study.day01.MyApp01" />
-      <module name="start2test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.baidu.study.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopThreeCityForProduct" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.baidu.study.day02.TopThreeCityForProduct" />
-      <module name="start2test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.baidu.study.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.EsTestApplication">
     <configuration name="EsNewTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="es_new_test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.haiyi.es_new_test.EsNewTestApplication" />
@@ -121,163 +63,49 @@
       </method>
     </configuration>
     <configuration name="EsTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="esTest" />
+      <module name="es_test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.haiyi.es_test.EsTestApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TopThreeCityForProduct" />
-        <item itemvalue="Application.MyApp01" />
-        <item itemvalue="Application.ErrorActionApp" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ae2ffa55-f05d-49df-beed-771a63bdedb8" name="Default Changelist" comment="" />
-      <created>1588833798172</created>
+      <changelist id="7b6c09dd-149c-4eae-bb1a-89250a376a13" name="Default Changelist" comment="" />
+      <created>1590659058511</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588833798172</updated>
-      <workItem from="1588833799370" duration="47000" />
-      <workItem from="1588833901446" duration="98000" />
-      <workItem from="1589003550152" duration="131000" />
-      <workItem from="1589003729717" duration="21000" />
-      <workItem from="1589003768321" duration="28000" />
-      <workItem from="1589003816190" duration="8966000" />
-      <workItem from="1589440633840" duration="4726000" />
-      <workItem from="1589506694076" duration="2007000" />
-      <workItem from="1589508768828" duration="112000" />
-      <workItem from="1589508892867" duration="194000" />
-      <workItem from="1589509111777" duration="2333000" />
-      <workItem from="1589511452498" duration="8000" />
-      <workItem from="1589934324858" duration="1884000" />
-      <workItem from="1589938178785" duration="23000" />
-      <workItem from="1589938242804" duration="985000" />
-      <workItem from="1589939243597" duration="2244000" />
-      <workItem from="1589941663185" duration="2777000" />
-      <workItem from="1589944469666" duration="784000" />
-      <workItem from="1589945268319" duration="6372000" />
-      <workItem from="1589957938211" duration="6203000" />
-      <workItem from="1590020269912" duration="24044000" />
-      <workItem from="1590055384990" duration="106000" />
-      <workItem from="1590057508818" duration="655000" />
-      <workItem from="1590107558008" duration="10399000" />
+      <updated>1590659058511</updated>
+      <workItem from="1590659062806" duration="93000" />
+      <workItem from="1590659192567" duration="2000" />
+      <workItem from="1590738654633" duration="111000" />
+      <workItem from="1590738783805" duration="293000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="100" key="#Notifications" timestamp="1590020587027">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1590739077754">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="452" y="100" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1590020587027" />
-    <state x="539" y="113" key="#Project_Structure" timestamp="1589003830318">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1590739077754" />
+    <state x="528" y="110" key="FileChooserDialogImpl" timestamp="1590739072168">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="539" y="113" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1589003830318" />
-    <state x="414" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589511094642">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="528" y="110" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590739072168" />
+    <state x="408" y="121" key="NewModule_or_Project.wizard" timestamp="1590739074755">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="414" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589511094642" />
-    <state x="577" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1590114299064">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="408" y="121" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1590739074755" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1590738817179">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="577" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590114299064" />
-    <state x="721" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590053921089" />
-    <state x="513" y="145" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589945216561">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="513" y="145" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589945216561" />
-    <state x="743" y="441" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590025453026">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="743" y="441" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590025453026" />
-    <state x="715" y="395" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1590025455698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="715" y="395" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1590025455698" />
-    <state width="1493" height="21" key="GridCell.Tab.0.bottom" timestamp="1590117990337">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="21" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590117990337" />
-    <state width="1867" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590058165791" />
-    <state width="1493" height="21" key="GridCell.Tab.0.center" timestamp="1590117990336">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="21" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590117990336" />
-    <state width="1867" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590058165791" />
-    <state width="1493" height="21" key="GridCell.Tab.0.left" timestamp="1590117990336">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="21" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590117990336" />
-    <state width="1867" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590058165791" />
-    <state width="1493" height="21" key="GridCell.Tab.0.right" timestamp="1590117990336">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="21" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590117990336" />
-    <state width="1867" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590058165791" />
-    <state width="1493" height="21" key="GridCell.Tab.1.bottom" timestamp="1590117990337">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="21" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590117990337" />
-    <state width="1867" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590058165791" />
-    <state width="1493" height="21" key="GridCell.Tab.1.center" timestamp="1590117990337">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="21" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590117990337" />
-    <state width="1867" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590058165791" />
-    <state width="1493" height="21" key="GridCell.Tab.1.left" timestamp="1590117990337">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="21" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590117990337" />
-    <state width="1867" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590058165791" />
-    <state width="1493" height="21" key="GridCell.Tab.1.right" timestamp="1590117990337">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="21" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590117990337" />
-    <state width="1867" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590058165791" />
-    <state x="302" y="77" key="Maven.ArtifactSearchDialog" timestamp="1590115123422">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="302" y="77" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1590115123422" />
-    <state x="377" y="97" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590055421438" />
-    <state x="124" y="63" key="SettingsEditor" timestamp="1590055480663">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="124" y="63" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590055480663" />
-    <state x="624" y="219" width="675" height="655" key="StructurePopup" timestamp="1590026246579">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="624" y="219" width="675" height="655" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1590026246579" />
-    <state x="474" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1590107558579">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="474" y="244" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590107558579" />
-    <state x="592" y="308" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590057518445" />
-    <state x="598" y="88" width="746" height="894" key="find.popup" timestamp="1590044112882">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="598" y="88" width="746" height="894" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590044112882" />
-    <state x="213" y="163" width="1598" height="685" key="new project wizard" timestamp="1590024225228">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="213" y="163" width="1598" height="685" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590024225228" />
-    <state x="543" y="246" key="run.anything.popup" timestamp="1590042147866">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="543" y="246" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590042147866" />
-    <state x="560" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1590051083698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="560" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590051083698" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590738817179" />
   </component>
 </project>
