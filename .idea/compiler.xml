@@ -8,13 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="es_new_test" />
         <module name="es_test" />
-        <module name="start2test" />
+        <module name="ShiXiExer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="es_new_test" target="1.8" />
       <module name="es_test" target="1.8" />
-      <module name="start2test" target="1.5" />
+      <module name="ShiXiExer" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

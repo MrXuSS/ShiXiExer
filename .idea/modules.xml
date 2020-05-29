@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShiXiExer.iml" filepath="$PROJECT_DIR$/ShiXiExer.iml" />
       <module fileurl="file://$PROJECT_DIR$/es_new_test/es_new_test.iml" filepath="$PROJECT_DIR$/es_new_test/es_new_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/esTest/es_test.iml" filepath="$PROJECT_DIR$/esTest/es_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/start2test.iml" filepath="$PROJECT_DIR$/start2test.iml" />
     </modules>
   </component>
 </project>

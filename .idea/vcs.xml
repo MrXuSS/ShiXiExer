@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/es_new_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flink-tutorial" vcs="Git" />
   </component>
 </project>
