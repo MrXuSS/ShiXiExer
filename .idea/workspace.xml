@@ -25,18 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b6c09dd-149c-4eae-bb1a-89250a376a13" name="Default Changelist" comment="分支测试5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es_new_test/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/es_new_test/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es_new_test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/es_new_test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es_new_test/src/main/java/com/haiyi/es_new_test/EsNewTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/es_new_test/src/main/java/com/haiyi/es_new_test/EsNewTestApplication.java" afterDir="false" />
+    <list default="true" id="7b6c09dd-149c-4eae-bb1a-89250a376a13" name="Default Changelist" comment="最新测试">
       <change beforePath="$PROJECT_DIR$/es_new_test/src/main/java/com/haiyi/es_new_test/controller/PersonInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/es_new_test/src/main/java/com/haiyi/es_new_test/controller/PersonInfoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es_new_test/src/main/java/com/haiyi/es_new_test/repository/PersonESRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/es_new_test/src/main/java/com/haiyi/es_new_test/service/impl/PersonInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/es_new_test/src/main/java/com/haiyi/es_new_test/service/impl/PersonInfoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es_new_test/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/es_new_test/src/main/resources/application.properties" afterDir="false" />
     </list>
-    <list id="9e5ef52f-ffa6-40c9-a425-12dd5e1b7cf8" name="分支测试2" comment="" />
-    <list id="fcfd30fa-b2ab-408b-8370-846de16059fc" name="分支测试3" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +54,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -166,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590978753365</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="最新测试">
+      <created>1590980160846</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590980160846</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +203,8 @@
     <MESSAGE value="分支测试3" />
     <MESSAGE value="分支测试4" />
     <MESSAGE value="分支测试5" />
-    <option name="LAST_COMMIT_MESSAGE" value="分支测试5" />
+    <MESSAGE value="最新测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="最新测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1590739077754">
@@ -227,10 +227,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="619" y="328" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1590978308877" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1590978770052">
+    <state x="518" y="188" key="Vcs.Push.Dialog.v2" timestamp="1590980269060">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590978770052" />
+    <state x="518" y="188" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590980269060" />
     <state x="563" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590978088214">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
